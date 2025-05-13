@@ -153,4 +153,4 @@ Payment Integration: Add options for monetizing ads with payment gateway integra
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Support
-For issues or feature requests, please open an issue in the GitHub repository.
+For issues or feature requests, please open an issue in the GitHub repository. This is currently not recommended for deployment as can false-flag as malware.
